@@ -1,0 +1,5 @@
+Throughout this session, I explored a medical insurance dataset by loading it, checking for missing values, and summarizing its core statistics. 
+I then performed exploratory data analysis and preprocessed the data by encoding categorical variables like sex, smoker status, and region into numerical formats. 
+Next, I split the dataset into training and testing subsets and trained a Linear Regression model to predict insurance charges based on these features. 
+I evaluated the model's performance using key metrics such as R-squared and Root Mean Squared Error (RMSE). 
+Finally, I refined our analysis and visualizations by generating a residual plot and improving the aesthetics of our histograms and correlation heatmaps.
